@@ -1,3 +1,1 @@
-== RubyShell
-
-You should document your project here.
+This is a partially implemented version of an in-memory Bash shell. This was written while I was learning the Ruby language. I wrote an equivalent program in Java for a class a year ago and writing it in Ruby has been much easier, much faster and much more simple to debug.
